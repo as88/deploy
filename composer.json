@@ -1,0 +1,10 @@
+{
+    "require": {
+	"symfony/console": "v2.8.2",
+	"symfony/process": "v2.8.2",
+	"symfony/yaml": "v2.8.2"
+    },
+    "autoload": {
+        "psr-4": { "": "src/" }
+    }
+}
